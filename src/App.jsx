@@ -1,4 +1,4 @@
-import MainPage from "./components/MainPage/MainPage"
+import MainPage from "./components/MainPage/MainPage";
 function App() {
   return (
     <>
@@ -7,4 +7,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
